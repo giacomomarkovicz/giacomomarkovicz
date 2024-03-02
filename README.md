@@ -34,5 +34,5 @@
 ## Contato
 
 [![Linkedin](https://img.shields.io/badge/-giacomomarkovicz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giacomomarkovicz/)](https://www.linkedin.com/in/giacomomarkovicz/)
-[![Gmail Badge](https://img.shields.io/badge/-giacomo.markovicz@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giacomo.markovicz@gmail.com)](mailto:giacomo.markovicz@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-giacomo.markovicz@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=red&link=mailto:giacomo.markovicz@gmail.com)](mailto:giacomo.markovicz@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/giacomomarkovicz?label=follow&style=social)](https://github.com/giacomomarkovicz)
