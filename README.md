@@ -2,9 +2,9 @@
 
 - Experiência como desenvolvedor web desde 2019, participando de projetos relevantes para empresas. Mais experiente com Javascript (Node.js e React), mas estudando e aprimorando novas habilidades.
 
-## Minhas Skills
+## :zap: Minhas Skills
 
-**Aplicações e dados**
+:wrench: **Aplicações e dados**
 
 ![TypeScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![JavaScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -19,12 +19,12 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-**Utilidades**
+:triangular_ruler: **Utilidades**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-**DevOps**
+:game_die: **DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -53,7 +53,7 @@
   </tr>
 </table>
 
-## Contato
+## :phone: Contato
 
 [![Linkedin](https://img.shields.io/badge/-giacomomarkovicz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giacomomarkovicz/)](https://www.linkedin.com/in/giacomomarkovicz/)
 [![Gmail Badge](https://img.shields.io/badge/-giacomo.markovicz@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=red&link=mailto:giacomo.markovicz@gmail.com)](mailto:giacomo.markovicz@gmail.com)
