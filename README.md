@@ -29,6 +29,8 @@
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
+### ⚙️ GitHub Analytics
+
 <table>
   <tr>
     <td>
