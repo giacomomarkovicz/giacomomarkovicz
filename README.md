@@ -31,7 +31,7 @@
 
 ### ⚙️ GitHub Analytics
 
-<table>
+<table style="boder: none">
   <tr>
     <td>
       <img
