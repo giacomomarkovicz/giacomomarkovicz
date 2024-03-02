@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 ## :man: Sobre mim
 
 - Experiência como desenvolvedor web desde 2019, participando de projetos relevantes para empresas. Mais experiente com Javascript (Node.js e React), mas estudando e aprimorando novas habilidades.
@@ -33,14 +39,14 @@
 
 <table>
   <tr>
-    <td boder="none">
+    <td>
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=giacomomarkovicz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
-    <td boder="none">
+    <td>
       <br />
       <img
         align="left"
