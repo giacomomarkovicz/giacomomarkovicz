@@ -1,9 +1,6 @@
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- Experiência como desenvolvedor web desde 2019, participando de projetos relevantes para empresas. Mais experiente com Javascript (Node.js e React), mas estudando e aprimorando novas habilidades.
 
 ## Minhas Skills
 
@@ -16,6 +13,7 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 **Utilidades**
 
@@ -28,8 +26,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-<br/>
 
 ## Contato
 
