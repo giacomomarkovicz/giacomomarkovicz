@@ -1,4 +1,4 @@
-## Sobre mim
+## :man: Sobre mim
 
 - Experiência como desenvolvedor web desde 2019, participando de projetos relevantes para empresas. Mais experiente com Javascript (Node.js e React), mas estudando e aprimorando novas habilidades.
 
