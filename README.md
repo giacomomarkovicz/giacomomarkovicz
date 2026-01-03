@@ -19,27 +19,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-### ⚙️ GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=giacomomarkovicz&theme=dark&hide_border=false&include_all_commits=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=giacomomarkovicz&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
 
 ## :phone: Contato
 
